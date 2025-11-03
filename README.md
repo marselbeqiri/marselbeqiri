@@ -6,9 +6,8 @@
 
 ### 📊 GitHub Stats
 
-![Marsel's GitHub stats](https://github-readme-stats.vercel.app/api?username=marselbeqiri&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=marselbeqiri&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marselbeqiri&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=marselbeqiri&theme=darcula&mode=weekly)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marselbeqiri&layout=compact&theme=darcula&hide_border=true)
 
 ---
 
