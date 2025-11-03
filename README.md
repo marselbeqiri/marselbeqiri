@@ -2,10 +2,6 @@
 
 🚀 **Full Stack Software Engineer | SaaS Architect | AI Enthusiast**
 
----
-
-### 📊 GitHub Stats
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=marselbeqiri&theme=darcula&mode=weekly&hide_border=true)](https://git.io/streak-stats)
 ---
 
