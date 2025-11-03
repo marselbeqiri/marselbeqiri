@@ -2,7 +2,13 @@
 
 🚀 **Full Stack Software Engineer | SaaS Architect | AI Enthusiast**
 
-I’m a software engineer passionate about building scalable products and intelligent systems that make technology more human. With over **7 years of experience**, I’ve designed and developed full-stack solutions, cloud-native architectures, and AI-driven platforms that power thousands of users worldwide.
+---
+
+### 📊 GitHub Stats
+
+![Marsel's GitHub stats](https://github-readme-stats.vercel.app/api?username=marselbeqiri&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=marselbeqiri&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marselbeqiri&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -48,7 +54,7 @@ I’m a software engineer passionate about building scalable products and intell
 ### 🌟 Highlights
 
 - Designed architectures handling **millions of daily transactions**  
-- Reduced system latency by **65%** and operational costs by **28%** in production systems  
+- Reduced system latency by **65%** and operational costs by **28%**  
 - Built AI-assisted tools that cut data analysis time by **70%+**  
 - Scaled SaaS platforms to **thousands of users** with **99.9% uptime**
 
@@ -63,6 +69,7 @@ I’m a software engineer passionate about building scalable products and intell
 ---
 
 ### ⚡ Fun Fact
+
 When I’m not coding, I love exploring AI-driven design, optimizing workflows, and sometimes diving into RPG worlds for inspiration 🎮
 
 ---
