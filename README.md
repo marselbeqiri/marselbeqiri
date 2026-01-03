@@ -2,9 +2,6 @@
 
 🚀 **Full Stack Software Engineer | SaaS Architect | AI Enthusiast**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=marselbeqiri&theme=darcula&mode=weekly&hide_border=true)](https://git.io/streak-stats)
----
-
 ### 🧠 What I Do
 
 - ⚙️ Architect and develop **scalable microservices** using **Python, Django, and FastAPI**
